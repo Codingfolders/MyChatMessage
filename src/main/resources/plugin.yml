@@ -1,0 +1,8 @@
+name: MyChatMessage
+version: '${version}'
+
+main: com.codingfolders.myChatMessage.MyChatMessage
+api-version: '26.3'
+load: POSTWORLD
+
+authors: [ Codingfolders ]
